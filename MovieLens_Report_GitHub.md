@@ -1,13 +1,9 @@
----
-title: "MovieLens Capstone Project"
-author: "Lidia Almazan"
-date: "5th June 2019"
-output: pdf_document
----
+MovieLens Project
+================
+Lidia Almazan
+5th June 2019
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+From the MovieLens dataset obtained from GroupLens (research lab at the University of Minnesota) we compare different machine learning models to predict the rating based on different characteristics of the movie. 
 
 # Introduction
 
