@@ -2,7 +2,7 @@
 title: "MovieLens Capstone Project"
 author: "Lidia Almazan"
 date: "5th June 2019"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
